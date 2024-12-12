@@ -2,6 +2,8 @@
 Created on Sun Nov 10 20:33:46 2024
 
 @author: willyb
+
+NOTE: Portions of this code were generated with the help of ChatGPT.
 """
 
 import os
